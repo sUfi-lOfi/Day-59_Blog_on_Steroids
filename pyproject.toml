@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "day-59-blog-on-steroids"
+version = "0.1.0"
+description = ""
+authors = ["ahmad-hassan <skytheispro94@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+flask = "^3.1.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
